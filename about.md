@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Me
-permalink: /about/
+permalink: /me/
 ---
 
-I study probability, statistics, random matrix and deep learning. I believe in LLN which motivates me to seek robust opportunities.
+I study probability, statistics, random matrix and deep learning. I believe in LLN which motivates me to seek robust opportunities in finance and tech.
 
 ### List of work
 
@@ -17,4 +17,4 @@ I study probability, statistics, random matrix and deep learning. I believe in L
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:)
