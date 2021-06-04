@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Challenge
+categories: Economy
 ---
 
 As current economic growth slowing down, we need to understand why this is happening and what are the causes.
