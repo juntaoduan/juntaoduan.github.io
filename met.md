@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Me
-permalink: /about/
+permalink: /me/
 ---
 
 I study probability, statistics, random matrix and deep learning. I believe in LLN which motivates me to seek robust opportunities in finance and tech.
