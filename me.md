@@ -14,6 +14,8 @@ I study probability, statistics, random matrix and deep learning. I believe in L
 * [Naive Bayes with Correlation Factor for Text Classification Problem](https://ieeexplore.ieee.org/document/8999119)[2019]
 * [Non-normal Limiting Distribution for Optimal Alignment Scores of Strings in Binary Alphabets](https://link.springer.com/article/10.1007/s10955-017-1835-6)[2017]
 
+### [Google Scholar](https://scholar.google.com/citations?hl=en&user=3GaM6pwAAAAJ)
+
 ### [Github](https://github.com/juntaoduan)
 
 
