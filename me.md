@@ -8,6 +8,11 @@ I study probability, statistics, random matrix and deep learning. I believe in L
 
 ### List of work
 
+* [Covariance estimation in multidimensional response mixed effect models]()[submitted]
+* [Predicting SARS-CoV-2 infection among hemodialysis patients using deep neural network methods](https://www.nature.com/articles/s41598-024-74967-4)[2024]
+* [Predicting SARS-CoV-2 infection among hemodialysis patients](https://www.frontiersin.org/articles/10.3389/fneph.2023.1179342/full)[2023]
+* [Gaussian process with correlation factor for text classification](https://ieeexplore.ieee.org/document/10459860)[2023]
+* [LoCoV: low dimension covariance voting  algorithm for portfolio optimization](https://github.com/juntaoduan/Porfolio-Optimization-LoCoV/blob/main/portfolio_optimization_LoCoV.pdf)[2022]
 * [Higher order  attention transformers for time series and text analysis]()[developing]
 * [Central Limit Theorem for product of dependent random variables](https://arxiv.org/abs/2106.14825)[2021 submitted]
 * [A Cost-Reducing Partial Labeling Estimator in Text Classification Problem](https://link.springer.com/chapter/10.1007/978-3-030-39442-4_37)[2020]
